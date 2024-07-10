@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Kumar</h1>
-<h3 align="center">A passionate Full-Stack and IoT developer from India</h3>
+<h3 align="center">A passionate Full-Stack and Game developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andinopiss&label=Profile%20views&color=0e75b6&style=flat" alt="andinopiss" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Distrupter**
 
-- 🌱 I’m currently learning **Machine Learning and Deep learning**
+- 🌱 I’m currently working on my expertise of **Game Development**
 
 - 👯 I’m looking to collaborate on **Pill Detection System**
 
 - 👨‍💻 All of my projects are available at [https://github.com/andinopiss](https://github.com/andinopiss)
 
-- 💬 Ask me about **React, Angular, Arduino, Raspberry Pi**
+- 💬 Ask me about **React, Angular, Unity3D, C#, Game Dev**
 
 - 📫 How to reach me **ab7673@srmist.edu.in**
 
